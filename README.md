@@ -67,11 +67,11 @@ Compare the simulation results with the theoretical calculations and discuss any
 ### Calculation
 
 <img width="864" height="1599" alt="image" src="https://github.com/user-attachments/assets/766e71d8-27b6-4d43-bf19-226c5fdd32c6" />
-
-
----
- Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
 
+---
+
+## RESULT
+The theoretical broadening ratio ($\sigma_{\text{out}}/\sigma_{\text{in}}$) for a chirped Gaussian pulse over $50\text{ km}$ of SMF-28 fiber was calculated using the linear system model formulas. The OptiSystem simulation confirmed these analytical results, showing precise agreement between the measured input/output pulse widths and the expected broadening profile influenced by the negative laser chirp factor.
 
