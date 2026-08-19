@@ -54,12 +54,19 @@ Place and connect the following components:
 - Set the parameters and run the simulation.  
 - Use the visualizer displays to measure:  
   - FWHM width of input and output pulses  
-  - FWHM width of optical spectra  
+  - FWHM width of optical spectra
+
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ebcdf92-2857-403c-94c8-c355fc7f51a3" />
+
 
 ---
 
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
+
+### Calculation
+
+<img width="864" height="1599" alt="image" src="https://github.com/user-attachments/assets/766e71d8-27b6-4d43-bf19-226c5fdd32c6" />
 
 
 ---
