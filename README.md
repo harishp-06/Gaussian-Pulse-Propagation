@@ -56,7 +56,7 @@ Place and connect the following components:
   - FWHM width of input and output pulses  
   - FWHM width of optical spectra
 
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ebcdf92-2857-403c-94c8-c355fc7f51a3" />
+<img width="1645" height="879" alt="image" src="https://github.com/user-attachments/assets/a0bd12cc-c099-48fe-b4db-ba62e0271d7c" />
 
 
 ---
@@ -66,9 +66,9 @@ Compare the simulation results with the theoretical calculations and discuss any
 
 ### Calculation
 
-<img width="864" height="1599" alt="image" src="https://github.com/user-attachments/assets/766e71d8-27b6-4d43-bf19-226c5fdd32c6" />
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
+<img width="864" height="1599" alt="image" src="https://github.com/user-attachments/assets/766e71d8-27b6-4d43-bf19-226c5fdd32c6" />
 
 ---
 
